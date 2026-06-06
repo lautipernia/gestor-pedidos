@@ -1,0 +1,301 @@
+id,nombre,telefono,dia_pedido,zona,productos_habituales,pedido_promedio
+1,Valentina González,+54 9 11 4253-5012,martes,Microcentro,fiambres y lácteos,23
+2,Leandro Gómez,+54 9 11 6837-7912,lunes,Centro,bebidas,9
+3,Maximiliano Medina,+54 9 11 2217-4257,viernes,Microcentro,congelados,15
+4,Tomás Ruiz,+54 9 11 6827-5557,viernes,Centro,bebidas,24
+5,Paula Romero,+54 9 11 4276-3547,martes,Sur,fiambres y lácteos,4
+6,Ezequiel Fernández,+54 9 11 4940-6635,jueves,Centro,artículos de limpieza,16
+7,Leandro Fernández,+54 9 11 5100-2291,jueves,Microcentro,congelados,13
+8,Mateo Aguirre,+54 9 11 2569-1750,viernes,Sur,fiambres y lácteos,9
+9,Martín Torres,+54 9 11 4277-8428,viernes,Sur,bebidas,13
+10,Ramiro Martínez,+54 9 11 7490-5374,viernes,Microcentro,artículos de limpieza,4
+11,Lautaro Acosta,+54 9 11 7973-5010,martes,Oeste,almacén,22
+12,Melina Pérez,+54 9 11 7608-6313,viernes,Centro,bebidas,3
+13,Gabriel Torres,+54 9 11 4193-2084,martes,Costa,artículos de limpieza,12
+14,Florencia Suárez,+54 9 11 6089-7482,sábado,Microcentro,panificados,6
+15,Santiago López,+54 9 11 4020-9830,martes,Costa,panificados,20
+16,Carla Sosa,+54 9 11 3796-3266,jueves,Centro,fiambres y lácteos,5
+17,Camila Suárez,+54 9 11 3310-7916,jueves,Oeste,panificados,21
+18,Romina Flores,+54 9 11 4059-1188,viernes,Centro,artículos de limpieza,19
+19,Brenda Gutiérrez,+54 9 11 7250-6573,lunes,Oeste,bebidas,16
+20,Juan Pereyra,+54 9 11 7895-5315,sábado,Norte,congelados,5
+21,Micaela Castro,+54 9 11 7234-9317,jueves,Norte,almacén,7
+22,Leandro Gutiérrez,+54 9 11 6344-1009,jueves,Oeste,fiambres y lácteos,5
+23,Daniela Núñez,+54 9 11 4519-4923,lunes,Costa,fiambres y lácteos,4
+24,Belén Castro,+54 9 11 2566-9727,viernes,Norte,artículos de limpieza,17
+25,Melina Díaz,+54 9 11 4171-9645,sábado,Oeste,bebidas,19
+26,Mateo Aguirre,+54 9 11 4553-7537,sábado,Microcentro,almacén,16
+27,Antonella Ruiz,+54 9 11 2991-5061,martes,Sur,fiambres y lácteos,20
+28,Melina Pérez,+54 9 11 6820-4608,lunes,Microcentro,artículos de limpieza,3
+29,Tomás Gómez,+54 9 11 2257-6413,lunes,Norte,almacén,23
+30,Belén Martínez,+54 9 11 6417-3167,viernes,Costa,congelados,17
+31,Agustina Molina,+54 9 11 5874-7669,martes,Centro,artículos de limpieza,15
+32,Ramiro Álvarez,+54 9 11 5367-8651,sábado,Centro,artículos de limpieza,22
+33,Martín Rodríguez,+54 9 11 5298-6559,viernes,Centro,bebidas,8
+34,Mateo Acosta,+54 9 11 5675-3296,miércoles,Sur,panificados,9
+35,Diego Ruiz,+54 9 11 6508-2604,lunes,Costa,fiambres y lácteos,4
+36,Agustina Díaz,+54 9 11 5329-8956,miércoles,Oeste,fiambres y lácteos,7
+37,Ezequiel González,+54 9 11 5198-5345,sábado,Oeste,almacén,15
+38,Melina Herrera,+54 9 11 7885-8973,martes,Sur,bebidas,3
+39,Leandro Rodríguez,+54 9 11 4569-1936,lunes,Oeste,congelados,18
+40,Lautaro Rodríguez,+54 9 11 6160-2312,sábado,Centro,congelados,4
+41,Agustina Torres,+54 9 11 2982-5033,jueves,Centro,congelados,4
+42,Facundo Herrera,+54 9 11 6781-9565,miércoles,Sur,bebidas,23
+43,Gabriel Pérez,+54 9 11 4175-7484,lunes,Microcentro,almacén,16
+44,Gabriel Silva,+54 9 11 2594-1152,miércoles,Costa,fiambres y lácteos,4
+45,Leandro Martínez,+54 9 11 6144-5345,lunes,Sur,fiambres y lácteos,9
+46,Daniela Sánchez,+54 9 11 3292-8179,viernes,Microcentro,almacén,21
+47,Antonella González,+54 9 11 7471-5905,sábado,Centro,bebidas,10
+48,Valentina Núñez,+54 9 11 2876-3546,martes,Costa,bebidas,24
+49,Rocío Martínez,+54 9 11 7631-5325,jueves,Sur,fiambres y lácteos,4
+50,Paula Castro,+54 9 11 4266-1722,lunes,Norte,artículos de limpieza,10
+51,Lautaro Pereyra,+54 9 11 5619-8007,jueves,Centro,fiambres y lácteos,24
+52,Camila Acosta,+54 9 11 2295-7049,jueves,Norte,panificados,6
+53,Carlos Sánchez,+54 9 11 4987-1653,sábado,Norte,artículos de limpieza,9
+54,Martín Sosa,+54 9 11 6586-7658,sábado,Microcentro,bebidas,9
+55,Lautaro Molina,+54 9 11 3450-7755,lunes,Microcentro,almacén,15
+56,Agustina García,+54 9 11 3304-2771,miércoles,Centro,panificados,9
+57,Mateo Castro,+54 9 11 5770-6728,miércoles,Norte,bebidas,2
+58,Mateo Torres,+54 9 11 4689-5564,sábado,Sur,almacén,22
+59,Maximiliano Torres,+54 9 11 7566-9785,miércoles,Centro,fiambres y lácteos,10
+60,Julieta Benítez,+54 9 11 4174-1626,lunes,Oeste,almacén,25
+61,Gabriel Álvarez,+54 9 11 6966-9379,lunes,Costa,bebidas,10
+62,Carlos Aguirre,+54 9 11 5572-1027,jueves,Costa,artículos de limpieza,25
+63,Mateo Sosa,+54 9 11 5533-2146,sábado,Sur,congelados,12
+64,Valentina Pereyra,+54 9 11 4460-9308,miércoles,Oeste,almacén,14
+65,Federico Acosta,+54 9 11 3042-4143,miércoles,Oeste,artículos de limpieza,25
+66,Julieta Medina,+54 9 11 6662-5930,miércoles,Centro,almacén,11
+67,Florencia Álvarez,+54 9 11 6751-6279,miércoles,Oeste,artículos de limpieza,8
+68,Maximiliano Ramírez,+54 9 11 3390-2389,miércoles,Microcentro,artículos de limpieza,21
+69,Rocío Gómez,+54 9 11 3924-6085,martes,Norte,bebidas,2
+70,Carlos Pérez,+54 9 11 5892-2193,miércoles,Microcentro,congelados,8
+71,Ezequiel Ramírez,+54 9 11 5273-4997,lunes,Microcentro,fiambres y lácteos,5
+72,Paula Pérez,+54 9 11 3440-9486,miércoles,Costa,bebidas,5
+73,Romina López,+54 9 11 5806-9702,sábado,Costa,almacén,16
+74,Maximiliano Álvarez,+54 9 11 6488-8305,sábado,Microcentro,panificados,16
+75,Santiago Gutiérrez,+54 9 11 4025-5543,viernes,Costa,panificados,22
+76,Agustina García,+54 9 11 5603-2269,viernes,Norte,almacén,12
+77,Gabriel Núñez,+54 9 11 6424-2320,lunes,Norte,panificados,24
+78,Camila Aguirre,+54 9 11 3752-2052,miércoles,Sur,congelados,16
+79,Facundo Rodríguez,+54 9 11 3694-7883,miércoles,Costa,artículos de limpieza,2
+80,Ezequiel Ramírez,+54 9 11 2048-6763,miércoles,Oeste,panificados,19
+81,Leandro Molina,+54 9 11 6941-4613,miércoles,Sur,panificados,17
+82,María Torres,+54 9 11 4753-7624,viernes,Oeste,bebidas,21
+83,Leandro González,+54 9 11 5227-1444,lunes,Oeste,bebidas,16
+84,Julieta Rodríguez,+54 9 11 4131-7211,miércoles,Oeste,almacén,12
+85,Ezequiel García,+54 9 11 5453-5133,viernes,Oeste,fiambres y lácteos,25
+86,Leandro Rodríguez,+54 9 11 4866-4673,viernes,Microcentro,fiambres y lácteos,2
+87,Agustina Martínez,+54 9 11 2166-3496,martes,Oeste,artículos de limpieza,5
+88,Florencia Ruiz,+54 9 11 7730-5198,viernes,Norte,congelados,21
+89,Valentina Gutiérrez,+54 9 11 3341-6096,lunes,Centro,almacén,20
+90,Ezequiel Torres,+54 9 11 7857-4249,lunes,Microcentro,artículos de limpieza,9
+91,Martín Aguirre,+54 9 11 4470-2983,viernes,Costa,fiambres y lácteos,13
+92,Leandro Álvarez,+54 9 11 7419-7071,lunes,Microcentro,almacén,2
+93,Facundo Castro,+54 9 11 6015-2729,miércoles,Sur,artículos de limpieza,16
+94,Camila Álvarez,+54 9 11 3442-9548,sábado,Sur,congelados,19
+95,Hernán Ruiz,+54 9 11 5568-5397,miércoles,Norte,fiambres y lácteos,10
+96,Iván Pérez,+54 9 11 5806-7209,miércoles,Oeste,almacén,7
+97,Belén Martínez,+54 9 11 4906-5232,miércoles,Costa,artículos de limpieza,10
+98,Melina González,+54 9 11 6232-4130,lunes,Microcentro,panificados,17
+99,Melina Gutiérrez,+54 9 11 3968-8800,viernes,Oeste,panificados,2
+100,Sofía Sánchez,+54 9 11 3815-7625,viernes,Sur,artículos de limpieza,20
+101,Daniela Ramírez,+54 9 11 6534-9698,miércoles,Microcentro,congelados,12
+102,Ramiro Aguirre,+54 9 11 5717-5438,miércoles,Norte,fiambres y lácteos,25
+103,Mateo Romero,+54 9 11 2979-9779,sábado,Microcentro,bebidas,8
+104,Florencia Pereyra,+54 9 11 5966-5530,viernes,Costa,congelados,11
+105,Martín Castro,+54 9 11 3590-5853,martes,Norte,almacén,2
+106,Leandro López,+54 9 11 4247-1745,sábado,Costa,almacén,24
+107,Nicolás Suárez,+54 9 11 6021-2680,sábado,Costa,almacén,17
+108,Hernán Ruiz,+54 9 11 4791-4020,sábado,Sur,panificados,5
+109,Diego Torres,+54 9 11 6028-2213,jueves,Microcentro,fiambres y lácteos,6
+110,Camila Molina,+54 9 11 6610-5978,lunes,Norte,fiambres y lácteos,19
+111,Facundo Medina,+54 9 11 6883-4697,viernes,Oeste,panificados,16
+112,Micaela Ortiz,+54 9 11 6821-8025,miércoles,Costa,fiambres y lácteos,21
+113,Martín Gutiérrez,+54 9 11 3702-4457,martes,Centro,bebidas,9
+114,Julieta Acosta,+54 9 11 2614-3564,lunes,Oeste,artículos de limpieza,21
+115,Hernán Sánchez,+54 9 11 2267-4792,miércoles,Sur,artículos de limpieza,16
+116,Diego Herrera,+54 9 11 3912-5334,viernes,Microcentro,congelados,23
+117,Mateo Álvarez,+54 9 11 2940-9922,martes,Norte,almacén,6
+118,Diego Rodríguez,+54 9 11 3359-6039,jueves,Costa,almacén,16
+119,Valentina Ruiz,+54 9 11 7641-5982,viernes,Sur,congelados,19
+120,Belén Ruiz,+54 9 11 2658-1653,sábado,Microcentro,almacén,21
+121,Santiago González,+54 9 11 2748-4750,sábado,Costa,congelados,2
+122,Brenda Benítez,+54 9 11 2329-3870,miércoles,Microcentro,panificados,10
+123,Julieta Benítez,+54 9 11 5570-9056,sábado,Oeste,almacén,15
+124,Rocío Romero,+54 9 11 7489-2713,sábado,Sur,panificados,24
+125,Belén Sánchez,+54 9 11 7427-7561,viernes,Costa,fiambres y lácteos,16
+126,Sofía Romero,+54 9 11 4067-6296,lunes,Oeste,congelados,2
+127,Leandro Ruiz,+54 9 11 5385-1888,martes,Sur,congelados,17
+128,Iván Gutiérrez,+54 9 11 2422-4335,martes,Norte,almacén,16
+129,Belén Fernández,+54 9 11 2236-4920,viernes,Sur,congelados,2
+130,Melina Álvarez,+54 9 11 2763-4681,sábado,Centro,panificados,5
+131,Camila Ramírez,+54 9 11 7870-5781,jueves,Sur,panificados,17
+132,Hernán Pérez,+54 9 11 5741-3369,miércoles,Costa,congelados,25
+133,Nicolás Ortiz,+54 9 11 2571-5526,viernes,Oeste,almacén,18
+134,Brenda Castro,+54 9 11 2021-5634,viernes,Costa,congelados,23
+135,Belén Ortiz,+54 9 11 3217-8316,jueves,Sur,almacén,19
+136,Leandro Torres,+54 9 11 5730-6272,sábado,Microcentro,bebidas,20
+137,Ezequiel Pérez,+54 9 11 5365-1715,miércoles,Oeste,artículos de limpieza,14
+138,Ezequiel Herrera,+54 9 11 7341-3492,miércoles,Centro,bebidas,18
+139,Rocío Ortiz,+54 9 11 2822-8213,lunes,Oeste,fiambres y lácteos,25
+140,Camila Álvarez,+54 9 11 7363-3529,lunes,Sur,almacén,21
+141,Carla Suárez,+54 9 11 2657-6383,sábado,Costa,panificados,12
+142,Belén Ortiz,+54 9 11 6432-1588,jueves,Norte,artículos de limpieza,23
+143,Federico Pérez,+54 9 11 2740-8110,sábado,Microcentro,artículos de limpieza,5
+144,Iván Díaz,+54 9 11 7685-5906,sábado,Centro,almacén,3
+145,Federico Sosa,+54 9 11 5070-8056,lunes,Costa,panificados,20
+146,Julieta Díaz,+54 9 11 3434-2293,jueves,Oeste,congelados,23
+147,Agustina Ramírez,+54 9 11 6777-3344,martes,Microcentro,almacén,16
+148,Santiago Herrera,+54 9 11 2076-8622,sábado,Microcentro,congelados,7
+149,Diego Ruiz,+54 9 11 4830-5901,viernes,Oeste,artículos de limpieza,10
+150,Romina Ortiz,+54 9 11 4474-4263,sábado,Oeste,fiambres y lácteos,9
+151,Ezequiel Benítez,+54 9 11 4940-5847,sábado,Sur,fiambres y lácteos,23
+152,Carla García,+54 9 11 2066-1803,sábado,Microcentro,panificados,11
+153,Tomás Medina,+54 9 11 4886-4588,viernes,Costa,almacén,23
+154,Nicolás Suárez,+54 9 11 2795-1645,miércoles,Oeste,fiambres y lácteos,20
+155,Daniela Pereyra,+54 9 11 3076-2476,sábado,Sur,artículos de limpieza,15
+156,Julieta Martínez,+54 9 11 3082-9837,sábado,Sur,congelados,18
+157,Brenda Castro,+54 9 11 3347-5210,sábado,Oeste,almacén,25
+158,Rocío Molina,+54 9 11 2943-8673,sábado,Norte,bebidas,23
+159,Carla Ortiz,+54 9 11 6565-6992,lunes,Oeste,fiambres y lácteos,10
+160,Leandro Fernández,+54 9 11 5725-7038,viernes,Microcentro,almacén,20
+161,Ezequiel Castro,+54 9 11 7230-7086,lunes,Norte,panificados,2
+162,Melina Romero,+54 9 11 6997-4626,viernes,Microcentro,panificados,24
+163,Micaela Suárez,+54 9 11 5344-2911,lunes,Centro,almacén,17
+164,Valentina Fernández,+54 9 11 3923-9807,lunes,Oeste,almacén,23
+165,Leandro Álvarez,+54 9 11 6811-3531,sábado,Microcentro,fiambres y lácteos,17
+166,Facundo García,+54 9 11 2268-7070,martes,Oeste,bebidas,13
+167,Martín Herrera,+54 9 11 5009-9920,sábado,Microcentro,almacén,3
+168,Carla García,+54 9 11 3554-3001,sábado,Oeste,fiambres y lácteos,23
+169,Florencia Suárez,+54 9 11 7238-1349,lunes,Sur,bebidas,6
+170,Florencia Gómez,+54 9 11 6540-4394,jueves,Norte,almacén,6
+171,Juan García,+54 9 11 3185-3129,jueves,Norte,fiambres y lácteos,23
+172,María López,+54 9 11 2121-6869,viernes,Norte,congelados,12
+173,María Díaz,+54 9 11 4173-1858,lunes,Oeste,congelados,5
+174,Diego Ramírez,+54 9 11 5672-6931,jueves,Centro,panificados,18
+175,Tomás Medina,+54 9 11 2355-9543,miércoles,Microcentro,fiambres y lácteos,3
+176,Hernán Ortiz,+54 9 11 5290-7984,viernes,Oeste,artículos de limpieza,16
+177,Diego Núñez,+54 9 11 2661-6277,jueves,Centro,bebidas,10
+178,Melina Aguirre,+54 9 11 4663-7240,sábado,Costa,almacén,16
+179,Maximiliano Medina,+54 9 11 5524-2624,viernes,Centro,artículos de limpieza,22
+180,Melina Pereyra,+54 9 11 3761-8046,miércoles,Norte,panificados,12
+181,Romina Torres,+54 9 11 5407-2557,miércoles,Sur,artículos de limpieza,10
+182,Daniela López,+54 9 11 7626-8770,lunes,Centro,fiambres y lácteos,15
+183,Martín Pereyra,+54 9 11 5052-3131,jueves,Costa,congelados,19
+184,Rocío Herrera,+54 9 11 3001-7730,miércoles,Microcentro,panificados,25
+185,Lucía Sánchez,+54 9 11 6918-6119,miércoles,Costa,congelados,8
+186,Camila Herrera,+54 9 11 5950-4674,viernes,Sur,congelados,13
+187,Valentina Gutiérrez,+54 9 11 4282-4705,viernes,Costa,congelados,21
+188,Melina González,+54 9 11 6988-5381,lunes,Sur,artículos de limpieza,11
+189,Rocío Sosa,+54 9 11 2050-3972,sábado,Costa,artículos de limpieza,14
+190,Diego López,+54 9 11 7186-1502,lunes,Costa,bebidas,14
+191,Facundo Ruiz,+54 9 11 4792-3578,miércoles,Microcentro,almacén,20
+192,Sofía Núñez,+54 9 11 2430-3549,martes,Costa,fiambres y lácteos,23
+193,Sofía García,+54 9 11 5629-7947,miércoles,Oeste,panificados,10
+194,Florencia Gutiérrez,+54 9 11 6197-2864,miércoles,Centro,almacén,23
+195,Belén Flores,+54 9 11 7465-6053,lunes,Oeste,congelados,3
+196,Juan Martínez,+54 9 11 4469-4460,viernes,Sur,almacén,12
+197,Valentina González,+54 9 11 6074-8055,martes,Oeste,congelados,24
+198,Tomás Flores,+54 9 11 6577-6802,lunes,Microcentro,fiambres y lácteos,15
+199,María Ruiz,+54 9 11 2637-6129,jueves,Costa,panificados,24
+200,Facundo Sánchez,+54 9 11 2943-7636,lunes,Sur,bebidas,21
+201,Romina Castro,+54 9 11 7649-6928,lunes,Centro,bebidas,15
+202,Carla Flores,+54 9 11 2644-7484,sábado,Microcentro,almacén,9
+203,Rocío Gutiérrez,+54 9 11 3377-2251,jueves,Centro,congelados,18
+204,Mateo Núñez,+54 9 11 4862-6752,viernes,Microcentro,bebidas,9
+205,Martín López,+54 9 11 4096-4232,martes,Norte,artículos de limpieza,4
+206,Julieta Gutiérrez,+54 9 11 7144-9095,miércoles,Costa,congelados,16
+207,Gabriel Ortiz,+54 9 11 7138-6179,martes,Centro,panificados,16
+208,Micaela Molina,+54 9 11 4250-1920,miércoles,Centro,almacén,16
+209,Iván Rodríguez,+54 9 11 2466-7041,viernes,Centro,artículos de limpieza,4
+210,Maximiliano Torres,+54 9 11 5790-1672,miércoles,Costa,artículos de limpieza,8
+211,Gabriel Medina,+54 9 11 5896-9214,martes,Centro,panificados,5
+212,Rocío Aguirre,+54 9 11 2690-9266,viernes,Centro,bebidas,24
+213,Iván Ruiz,+54 9 11 6293-9564,jueves,Sur,almacén,11
+214,Ezequiel Álvarez,+54 9 11 4771-1857,viernes,Microcentro,almacén,4
+215,Rocío Fernández,+54 9 11 6570-7333,miércoles,Microcentro,artículos de limpieza,21
+216,Camila Romero,+54 9 11 2667-3317,sábado,Sur,artículos de limpieza,24
+217,Carla López,+54 9 11 6874-2388,miércoles,Oeste,artículos de limpieza,12
+218,Nicolás Herrera,+54 9 11 7757-9624,lunes,Microcentro,panificados,18
+219,Daniela González,+54 9 11 4970-6060,martes,Norte,almacén,17
+220,Mateo Pérez,+54 9 11 3126-3538,lunes,Centro,congelados,19
+221,Antonella Rodríguez,+54 9 11 7422-6517,sábado,Costa,bebidas,21
+222,Ezequiel López,+54 9 11 3329-3962,viernes,Costa,bebidas,25
+223,Iván Rodríguez,+54 9 11 5365-6968,viernes,Norte,panificados,21
+224,Federico Gutiérrez,+54 9 11 5677-4833,jueves,Sur,panificados,8
+225,Daniela Herrera,+54 9 11 6672-8218,miércoles,Sur,panificados,18
+226,Antonella Álvarez,+54 9 11 3327-4271,viernes,Norte,almacén,3
+227,Hernán Ortiz,+54 9 11 5040-2680,viernes,Costa,fiambres y lácteos,11
+228,Sofía Gutiérrez,+54 9 11 3313-5469,miércoles,Costa,bebidas,15
+229,Sofía Silva,+54 9 11 3818-8391,sábado,Centro,panificados,3
+230,Carla Flores,+54 9 11 5063-4862,miércoles,Centro,almacén,9
+231,María Romero,+54 9 11 2811-6493,viernes,Norte,fiambres y lácteos,11
+232,Hernán Aguirre,+54 9 11 3136-8685,miércoles,Centro,fiambres y lácteos,2
+233,Santiago Martínez,+54 9 11 3224-9991,sábado,Costa,congelados,15
+234,Valentina Gutiérrez,+54 9 11 4360-4893,miércoles,Centro,bebidas,15
+235,Romina Gómez,+54 9 11 2908-9189,jueves,Centro,artículos de limpieza,18
+236,Agustina Aguirre,+54 9 11 3176-5772,miércoles,Costa,almacén,9
+237,Facundo Díaz,+54 9 11 7442-2402,jueves,Sur,fiambres y lácteos,18
+238,Leandro Flores,+54 9 11 6158-1333,miércoles,Oeste,fiambres y lácteos,22
+239,Ezequiel Sosa,+54 9 11 4077-1266,miércoles,Centro,almacén,9
+240,Martín Gutiérrez,+54 9 11 6766-6447,lunes,Sur,congelados,12
+241,Julieta Castro,+54 9 11 7608-8612,sábado,Oeste,artículos de limpieza,7
+242,Nicolás Gómez,+54 9 11 7865-8498,lunes,Norte,fiambres y lácteos,8
+243,Carlos Romero,+54 9 11 4540-9444,miércoles,Costa,panificados,10
+244,Carlos Gutiérrez,+54 9 11 7299-4131,miércoles,Centro,artículos de limpieza,12
+245,Brenda Fernández,+54 9 11 5014-8159,sábado,Microcentro,panificados,14
+246,Rocío Díaz,+54 9 11 6064-9151,miércoles,Costa,almacén,4
+247,Paula Gómez,+54 9 11 5527-3956,jueves,Sur,fiambres y lácteos,4
+248,Gabriel Herrera,+54 9 11 4421-6021,miércoles,Microcentro,panificados,7
+249,Iván Sosa,+54 9 11 5662-1693,viernes,Sur,congelados,15
+250,Brenda Suárez,+54 9 11 2469-2229,viernes,Oeste,almacén,18
+251,Lautaro González,+54 9 11 3169-8179,lunes,Centro,bebidas,22
+252,Daniela Sosa,+54 9 11 5136-1530,jueves,Microcentro,panificados,13
+253,Daniela Ruiz,+54 9 11 2629-3255,jueves,Oeste,almacén,22
+254,Brenda Pérez,+54 9 11 2929-1424,viernes,Oeste,congelados,14
+255,Melina Fernández,+54 9 11 4144-5264,viernes,Norte,congelados,11
+256,Belén Martínez,+54 9 11 3004-3223,sábado,Oeste,bebidas,24
+257,Iván Gómez,+54 9 11 7586-6236,viernes,Microcentro,fiambres y lácteos,19
+258,Leandro Sánchez,+54 9 11 4457-3580,viernes,Microcentro,artículos de limpieza,7
+259,Daniela Flores,+54 9 11 3836-2988,sábado,Norte,bebidas,17
+260,María Sosa,+54 9 11 6538-7044,miércoles,Costa,bebidas,21
+261,Sofía Gómez,+54 9 11 4533-7523,sábado,Microcentro,panificados,18
+262,Facundo Gutiérrez,+54 9 11 5354-2208,lunes,Sur,artículos de limpieza,4
+263,Iván Ruiz,+54 9 11 7571-9476,miércoles,Costa,artículos de limpieza,20
+264,Julieta Gutiérrez,+54 9 11 3057-8088,jueves,Centro,fiambres y lácteos,18
+265,Camila Sánchez,+54 9 11 3348-3653,miércoles,Microcentro,bebidas,13
+266,Antonella Núñez,+54 9 11 4326-2292,martes,Microcentro,congelados,10
+267,Nicolás Suárez,+54 9 11 4480-9740,lunes,Microcentro,bebidas,20
+268,Camila Díaz,+54 9 11 7396-6531,viernes,Costa,fiambres y lácteos,2
+269,Sofía Rodríguez,+54 9 11 7254-5336,viernes,Costa,panificados,21
+270,María Ramírez,+54 9 11 7137-9938,miércoles,Sur,panificados,9
+271,Carla Sánchez,+54 9 11 5715-2195,viernes,Norte,panificados,15
+272,Hernán Ruiz,+54 9 11 3671-6573,jueves,Sur,artículos de limpieza,12
+273,Ramiro Torres,+54 9 11 3071-7070,jueves,Centro,almacén,9
+274,Romina Fernández,+54 9 11 4191-8366,martes,Centro,fiambres y lácteos,11
+275,Ezequiel Ortiz,+54 9 11 7041-7850,martes,Norte,almacén,20
+276,Gabriel Martínez,+54 9 11 3305-9163,sábado,Oeste,panificados,11
+277,Belén González,+54 9 11 2737-7442,jueves,Norte,bebidas,20
+278,Ramiro Rodríguez,+54 9 11 2414-5609,miércoles,Microcentro,artículos de limpieza,17
+279,Federico Acosta,+54 9 11 2066-2761,miércoles,Sur,artículos de limpieza,13
+280,Carla Sosa,+54 9 11 2370-7563,lunes,Costa,bebidas,13
+281,Melina Sánchez,+54 9 11 2602-7329,jueves,Costa,almacén,21
+282,Valentina López,+54 9 11 2792-7453,miércoles,Sur,congelados,13
+283,Camila Martínez,+54 9 11 6935-9341,miércoles,Centro,fiambres y lácteos,3
+284,Nicolás Aguirre,+54 9 11 4728-8761,jueves,Norte,congelados,18
+285,Nicolás Romero,+54 9 11 7022-6218,martes,Costa,artículos de limpieza,11
+286,Rocío Flores,+54 9 11 6175-9721,miércoles,Costa,almacén,17
+287,María Sosa,+54 9 11 4713-2795,sábado,Costa,almacén,25
+288,María Medina,+54 9 11 5887-5350,sábado,Costa,congelados,9
+289,Lucía Benítez,+54 9 11 5935-3793,jueves,Microcentro,congelados,14
+290,Camila Castro,+54 9 11 7576-4968,lunes,Microcentro,fiambres y lácteos,8
+291,María Ruiz,+54 9 11 4569-7861,martes,Microcentro,bebidas,15
+292,Maximiliano Gutiérrez,+54 9 11 7009-8726,sábado,Microcentro,artículos de limpieza,3
+293,Nicolás Flores,+54 9 11 3698-6325,sábado,Oeste,congelados,14
+294,Gabriel Díaz,+54 9 11 5765-9734,miércoles,Sur,artículos de limpieza,25
+295,Santiago Medina,+54 9 11 5966-4150,sábado,Sur,congelados,11
+296,Tomás Sánchez,+54 9 11 4367-4396,viernes,Oeste,almacén,17
+297,Ramiro Acosta,+54 9 11 7911-5480,miércoles,Costa,artículos de limpieza,19
+298,Ezequiel Núñez,+54 9 11 5232-6654,sábado,Norte,almacén,3
+299,Federico Aguirre,+54 9 11 2647-6674,sábado,Microcentro,almacén,25
+300,Hernán Martínez,+54 9 11 3655-9824,martes,Costa,artículos de limpieza,10
